@@ -3,4 +3,4 @@ A discord bot built on NodeJS that recognises images of pokemon via web scraping
 
 This solution recognises messages sent by the pokemon bot in a discord server. Images of pokemon are recognised via web scraping and then caught.
 
-Check out image.jpg for what it looks like.
+Check out image.png for what it looks like.
